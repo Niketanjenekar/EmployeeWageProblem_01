@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Welcome to Employee\r\nWage Computation Program");
             EmployeeCheck.EmployeeAttendence();
+            EmployeedailyWageProblem.DailyEmployeeWage();
         }
     }
 }
